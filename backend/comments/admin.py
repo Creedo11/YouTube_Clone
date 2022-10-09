@@ -3,4 +3,4 @@ from .models import Comment
 
 # Register your models here.
 
-admin.site.regsiter(Comment)
+admin.site.register(Comment)
